@@ -1,0 +1,8 @@
+{
+  "name": "photo-gen-pro",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve .",
+    "build": "mkdir -p dist && cp index.html App.jsx dist/"
+  }
+}
